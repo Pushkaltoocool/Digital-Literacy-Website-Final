@@ -1,0 +1,162 @@
+body{
+    background-color: #E4E5F1;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+div nav {
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  div nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+h1 {
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  #quote-container {
+    margin-bottom: 30px;
+  }
+  
+  #quote {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #new-quote-btn {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #new-quote-btn:hover {
+    background-color: #555;
+  }
+
+  .topnav {
+    display:flex;
+  }
+
+  .active {
+    font-family:verdana;
+    color: #ffffff; /* Link color */
+    text-decoration: none; /* Remove underline by default */
+  }
+  
+  .active:hover {
+    color: #0056b3; /* Link color on hover */
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  .active:focus {
+    outline: none; /* Remove outline on focus (for accessibility) */
+  }
+  
+  .name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    }
+    .LOL {
+        display:flex;
+    }
+    .txt {
+        width:100%   
+    }
+    .extraanchors{
+        color: #007bff; /* Link color */
+        text-decoration: none; /* Remove underline by default */
+      }
+      
+      .extraanchors:hover {
+        color: #0056b3; /* Link color on hover */
+        text-decoration: underline; /* Underline on hover */
+      }
+      
+      .extraanchors:focus {
+        outline: none; /* Remove outline on focus (for accessibility) */
+      }
+      div table tr td a {
+        font-size: 50px;
+        font-family: "Roboto", sans-serif;
+        color: #ffffff; /* Link color */
+        text-decoration: none; /* Remove underline by default */
+      }
+
+      div table tr td a:hover{
+        color: #695a5a; /* Link color on hover */
+        text-decoration: underline; /* Underline on hover */
+      }
+
+      div table tr td a:focus {
+        outline: none; /* Remove outline on focus (for accessibility) */
+      }
+
+      div table tr td h1 {
+        font-size: 50px;
+        color: #ffffff;
+      }
+p {
+  color:#0be0c4;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+video {
+  width: 50%;
+  margin-bottom: 20px;
+}
